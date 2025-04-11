@@ -1,5 +1,21 @@
 # ACME ACCOUNTING
 
+## OPTIMISATION RESULTS for REPORT GENERATE ENDPOINT
+
+###BEFORE
+{
+    "accounts.csv": "finished in 2.93",
+    "yearly.csv": "finished in 1.27",
+    "fs.csv": "finished in 1.87"
+}
+
+###AFTER
+{
+    "accounts.csv": "finished in 2.33",
+    "yearly.csv": "finished in 0.94",
+    "fs.csv": "finished in 1.70"
+}
+
 Welcome to ACME acounting, this codebase serves as a way for you to
 know how we at OSOME work and how you work through challenges while
 adopting an existing codebase.
